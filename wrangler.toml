@@ -1,0 +1,8 @@
+account_id = "b6c772ff012e283df5b0a8b1303d6492"
+name = "testcfstaticsite"
+type = "webpack"
+workers_dev = true
+site = { bucket = "./public" }
+route = "saw.workers.dev/*"
+
+
